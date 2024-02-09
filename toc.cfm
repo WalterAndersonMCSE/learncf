@@ -12,5 +12,6 @@
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=Intro_To_Data">Getting To Data</a></li>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=Scripts_And_Components">Script and Components</a></li>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=recap">Recap</a>
+		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=exercises">UML INFO 2480 Exercises</a>
 	</ul>
 </cfoutput>    
