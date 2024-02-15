@@ -12,6 +12,6 @@
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=Intro_To_Data">Getting To Data</a></li>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=Scripts_And_Components">Script and Components</a></li>
 		<li  class="navitem"><a href="#cgi.SCRIPT_NAME#?p=recap">Recap</a>
-		<li  class="navitem"><a href="\learncf\exercises">UML INFO 2480 Exercises</a>
+		<li  class="navitem"><a href="http://192.168.1.154:58581/exercises/">UML INFO 2480 Exercises</a>
 	</ul>
 </cfoutput>    
